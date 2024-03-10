@@ -4,10 +4,10 @@ This project includes a simple note-taking application. Users can add, edit, and
 
 <h2> The technologies used in the project </h2>
 
-React: React library is used for the user interface.
-Axios: Axios library is used for HTTP requests.
-Bootstrap: Bootstrap is used for basic style and layout.
-JSON Server: JSON Server is used to provide a simple API for the project.
+.React: React library is used for the user interface.
+.Axios: Axios library is used for HTTP requests.
+.Bootstrap: Bootstrap is used for basic style and layout.
+.JSON Server: JSON Server is used to provide a simple API for the project.
 
 <h2> Demo </h2>
 
