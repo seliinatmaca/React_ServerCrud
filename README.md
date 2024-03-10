@@ -11,7 +11,7 @@ JSON Server: JSON Server is used to provide a simple API for the project.
 
 <h2> Demo </h2>
 
-You can view a live demo of this project [here](https://seliinatmaca.github.io/QRMenu/).
+You can view a live demo of this project [here](https://react-servercrud.netlify.app).
 
 <h2> Screenshot </h2>
 
